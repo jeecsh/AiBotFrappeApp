@@ -1,0 +1,10 @@
+[project]
+name = "erpnext_ai"
+version = "1.0.0"
+description = "AI Assistant for ERPNext"
+authors = [{name = "NOS"}]
+requires-python = ">=3.10"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
