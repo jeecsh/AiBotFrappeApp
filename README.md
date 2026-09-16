@@ -1,6 +1,3 @@
-# ERPNext AI
-
-AI Assistant for ERPNext. Adds a chat button to query your ERP data using natural language.
 
 ## Installation
 
